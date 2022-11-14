@@ -1,0 +1,22 @@
+.second-title {
+    color: #bb791f;
+    background-color: #a59f9f;
+    width: 527px;
+}
+
+.history {
+    color: #bb791f;
+    width: 78px;
+    margin-top: 15px;
+    margin-bottom: -15px;
+}
+
+.court-bat-image {
+    max-width: 100%;
+    height: auto;
+    
+}
+
+img.qt {
+    filter:grayscale(10%);
+}
