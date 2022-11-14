@@ -14,9 +14,4 @@
 .court-bat-image {
     max-width: 100%;
     height: auto;
-    
-}
-
-img.qt {
-    filter:grayscale(10%);
 }
